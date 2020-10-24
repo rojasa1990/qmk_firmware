@@ -19,8 +19,8 @@
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0x0001 // GEN ONE LLC
-#define PRODUCT_ID      0x0001 // Eclipse65
+#define VENDOR_ID       0xFEED
+#define PRODUCT_ID      0x2222
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    GEN ONE LLC
 #define PRODUCT         GEN ONE Eclipse65
